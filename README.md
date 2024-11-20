@@ -1,8 +1,9 @@
 # Tasmota on Sonoff mini 
-[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-black.png)](https://www.buymeacoffee.com/wadalino)
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://www.buymeacoffee.com/wadalino)
 
 ## Link to GitLab code
 [Please refer to this location](https://gitlab.wadalino.org/wdln-public/tasmota-sonoff-mini)
+---
 
 ### Compatibility
 
@@ -115,6 +116,6 @@ python3 main.py
   
 <div style="text-align: center;">
 <img src="img.png" alt="Buy Me A Coffee" width="200">
-  
-[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-black.png)](https://www.buymeacoffee.com/wadalino)
+     
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://www.buymeacoffee.com/wadalino)
 </div>
